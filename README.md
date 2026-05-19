@@ -200,6 +200,6 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo, modificarlo y distr
 
 <div align="center">
 
-Hecho con ☕ y Java · por [tu-usuario](https://github.com/24kgolden)
+Hecho con ☕ y Java · por [24kgolden](https://github.com/24kgolden)
 
 </div>
