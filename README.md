@@ -16,13 +16,13 @@
   ╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝╚══════╝╚═╝
 ```
 
-### 📁 Herramienta CLI de gestión de archivos para Linux — escrita en Java
+###  Herramienta CLI de gestión de archivos para Linux — escrita en Java
 
 </div>
 
 ---
 
-## 📸 Vista previa
+##  Vista previa
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Uso: filecli <comando> [ruta] [opciones]
 
 ---
 
-## ✨ Características
+##  Características
 
 | Comando | Descripción |
 |--------|-------------|
@@ -65,7 +65,7 @@ Uso: filecli <comando> [ruta] [opciones]
 
 ---
 
-## 🚀 Instalación
+##  Instalación
 
 ### Opción 1 — Script automático (recomendado)
 
@@ -101,7 +101,7 @@ source ~/.bashrc
 
 ---
 
-## 💻 Ejemplos de uso
+##  Ejemplos de uso
 
 ```bash
 # Listar archivos con iconos
@@ -128,25 +128,25 @@ filecli top ~/
 
 ---
 
-## 🗂️ Categorías del comando `organize`
+##  Categorías del comando `organize`
 
 Cuando ejecutas `filecli organize <ruta>`, los archivos se mueven automáticamente a las siguientes carpetas:
 
 | Carpeta | Extensiones soportadas |
 |---------|------------------------|
-| 🖼️ Imágenes | `jpg`, `jpeg`, `png`, `gif`, `bmp`, `svg`, `webp`, `ico`, `tiff` |
-| 📄 Documentos | `pdf`, `doc`, `docx`, `xls`, `xlsx`, `ppt`, `pptx`, `txt`, `md`, `csv` |
-| 🎬 Videos | `mp4`, `mkv`, `avi`, `mov`, `wmv`, `flv`, `webm` |
-| 🎵 Audio | `mp3`, `wav`, `flac`, `aac`, `ogg`, `m4a` |
-| 💻 Código | `java`, `py`, `js`, `ts`, `html`, `css`, `c`, `cpp`, `go`, `rs`, `sh`, `json`, `xml`, `yaml` |
-| 🗜️ Comprimidos | `zip`, `tar`, `gz`, `bz2`, `7z`, `rar`, `xz` |
-| 📎 Otros | todo lo demás |
+|  Imágenes | `jpg`, `jpeg`, `png`, `gif`, `bmp`, `svg`, `webp`, `ico`, `tiff` |
+|  Documentos | `pdf`, `doc`, `docx`, `xls`, `xlsx`, `ppt`, `pptx`, `txt`, `md`, `csv` |
+|  Videos | `mp4`, `mkv`, `avi`, `mov`, `wmv`, `flv`, `webm` |
+|  Audio | `mp3`, `wav`, `flac`, `aac`, `ogg`, `m4a` |
+|  Código | `java`, `py`, `js`, `ts`, `html`, `css`, `c`, `cpp`, `go`, `rs`, `sh`, `json`, `xml`, `yaml` |
+|  Comprimidos | `zip`, `tar`, `gz`, `bz2`, `7z`, `rar`, `xz` |
+|  Otros | todo lo demás |
 
-> ⚠️ El comando `organize` **mueve** los archivos. Asegúrate de tener una copia de seguridad si lo usas en rutas críticas.
+>  El comando `organize` **mueve** los archivos. Asegúrate de tener una copia de seguridad si lo usas en rutas críticas.
 
 ---
 
-## 📋 Requisitos
+##  Requisitos
 
 - **Java 11 o superior** (JRE para ejecutar, JDK para compilar)
 - Linux, macOS o WSL (Windows Subsystem for Linux)
@@ -162,7 +162,7 @@ sudo apt install openjdk-21-jre-headless
 
 ---
 
-## 🏗️ Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 filecli/
@@ -178,28 +178,7 @@ filecli/
 
 ---
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si quieres mejorar FileCLI:
-
-1. Haz un **fork** del repositorio
-2. Crea una rama: `git checkout -b feature/nueva-funcionalidad`
-3. Realiza tus cambios y haz commit: `git commit -m "feat: agrega nueva-funcionalidad"`
-4. Sube los cambios: `git push origin feature/nueva-funcionalidad`
-5. Abre un **Pull Request**
-
-### Ideas para contribuir
-
-- [ ] Soporte para mover/copiar archivos
-- [ ] Modo interactivo con menú navegable
-- [ ] Filtros por fecha o tamaño en `ls-l`
-- [ ] Exportar estadísticas a CSV o JSON
-- [ ] Configuración de categorías personalizadas para `organize`
-- [ ] Soporte para colores en Windows (PowerShell)
-
----
-
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está bajo la licencia **MIT**. Puedes usarlo, modificarlo y distribuirlo libremente.
 
