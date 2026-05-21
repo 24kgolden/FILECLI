@@ -24,6 +24,12 @@
 
 ## 📸 Vista previa
 
+<div align="center">
+
+<img src="./assets/filecli-preview.png" alt="Vista previa de FileCLI" width="900"/>
+
+</div>
+
 ```
 ╔══════════════════════════════════════════╗
 ║         FileCLI — Herramienta de         ║
