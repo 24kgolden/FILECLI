@@ -26,7 +26,8 @@
 
 <div align="center">
 
-![image](https://github.com/filecli-preview.png/assets/64a82d8b-607f-4774-9eae-7cee207165d8)
+
+<img src="filecli-preview.png" width="900"/>
 
 </div>
 
