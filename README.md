@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="./assets/filecli-preview.png" alt="Vista previa de FileCLI" width="900"/>
+![image](https://github.com/filecli-preview.png/assets/64a82d8b-607f-4774-9eae-7cee207165d8)
 
 </div>
 
